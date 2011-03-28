@@ -11,6 +11,15 @@
 	"build_system": "",
 	"file_history":
 	[
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/public/index.html",
+		"/home/solomon/Programming/rails_projects/sample_app/public/hello.html",
+		"/home/solomon/Programming/rails_projects/sample_app/Gemfile",
+		"/home/solomon/Programming/rails_projects/sample_app/README.markdown",
 		"/home/solomon/Programming/rails_projects/demo_app/app/models/micropost.rb",
 		"/home/solomon/Programming/rails_projects/demo_app/app/controllers/microposts_controller.rb",
 		"/home/solomon/Programming/rails_projects/demo_app/app/views/users/index.html.erb",
