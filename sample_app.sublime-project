@@ -1,0 +1,121 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"file_history":
+	[
+		"/home/solomon/Programming/rails_projects/demo_app/app/models/micropost.rb",
+		"/home/solomon/Programming/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/home/solomon/Programming/rails_projects/demo_app/app/views/users/index.html.erb",
+		"/home/solomon/Programming/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/home/solomon/Programming/rails_projects/demo_app/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/demo_app/app/models/user.rb",
+		"/home/solomon/Programming/rails_projects/demo_app/app/views/users/edit.html.erb",
+		"/home/solomon/Programming/rails_projects/demo_app/Gemfile",
+		"/home/solomon/Programming/rails_projects/first_app/.gitignore",
+		"/home/solomon/Programming/rails_projects/first_app/Gemfile",
+		"/home/solomon/Programming/rails_projects/first_app/Gemfile.lock",
+		"/host/Users/Solomon/Dropbox/PlainText/To do/To do.txt",
+		"/home/solomon/Programming/rails_projects/first_app/README.markdown",
+		"/home/solomon/.config/sublime-text-2/Packages/Default/Global.sublime-settings"
+	],
+	"find_in_files":
+	{
+		"include_history":
+		[
+		],
+		"location_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	{
+		"mount_points":
+		[
+			"/home/solomon/Programming/rails_projects/sample_app"
+		]
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0,
+			1
+		],
+		"rows":
+		[
+			0,
+			1
+		]
+	},
+	"menu_visible": true,
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0,
+		"selected_items":
+		[
+		],
+		"width": 0
+	},
+	"select_project":
+	{
+		"height": 500,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/solomon/Programming/rails_projects/first_app/first_rails_app.sublime-project"
+			]
+		],
+		"width": 380
+	},
+	"show_minimap": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 217,
+	"status_bar_visible": true
+}
