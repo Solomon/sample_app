@@ -7,15 +7,28 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 281,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"file_history":
 	[
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/help.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/config/environments/production.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/contact.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/public/index.html",
 		"/home/solomon/Programming/rails_projects/sample_app/public/hello.html",
 		"/home/solomon/Programming/rails_projects/sample_app/Gemfile",
@@ -73,8 +86,35 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
+					"settings":
+					{
+						"buffer_size": 281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								281,
+								281
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
