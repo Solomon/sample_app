@@ -11,7 +11,55 @@
 			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
 			"settings":
 			{
-				"buffer_size": 281,
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+			"settings":
+			{
+				"buffer_size": 269,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+			"settings":
+			{
+				"buffer_size": 302,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_stylesheets.html.erb",
+			"settings":
+			{
+				"buffer_size": 395,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/public/stylesheets/custom.css",
+			"settings":
+			{
+				"buffer_size": 1318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
+			"settings":
+			{
+				"buffer_size": 586,
 				"line_ending": "Unix"
 			}
 		}
@@ -19,6 +67,8 @@
 	"build_system": "",
 	"file_history":
 	[
+		"/usr/local/rvm/src/rubygems-1.3.7/.autotest",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/help.html.erb",
@@ -27,7 +77,6 @@
 		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/contact.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/public/index.html",
 		"/home/solomon/Programming/rails_projects/sample_app/public/hello.html",
@@ -86,7 +135,6 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
 				{
@@ -94,20 +142,182 @@
 					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
 					"settings":
 					{
-						"buffer_size": 281,
+						"buffer_size": 345,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								281,
-								281
+								316,
+								316
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+					"settings":
+					{
+						"buffer_size": 269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								269,
+								269
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+					"settings":
+					{
+						"buffer_size": 302,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_stylesheets.html.erb",
+					"settings":
+					{
+						"buffer_size": 395,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								395,
+								395
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								249,
+								249
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0,
+						"translation.y": 0,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/public/stylesheets/custom.css",
+					"settings":
+					{
+						"buffer_size": 1318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1318,
+								1318
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0,
+						"translation.y": 1117,
+						"zoom_level": 1
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
 						"translation.y": 0,
@@ -147,6 +357,10 @@
 		"height": 0,
 		"selected_items":
 		[
+			[
+				"lay",
+				"app/views/layouts/_header.html.erb"
+			]
 		],
 		"width": 0
 	},
