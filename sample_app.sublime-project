@@ -8,58 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/user.rb",
 			"settings":
 			{
-				"buffer_size": 2086,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
-			"settings":
-			{
-				"buffer_size": 329,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/controllers/users_controller.rb",
-			"settings":
-			{
-				"buffer_size": 89,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
-			"settings":
-			{
-				"buffer_size": 1247,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
-			"settings":
-			{
-				"buffer_size": 325,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
-			"settings":
-			{
-				"buffer_size": 242,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
-			"settings":
-			{
-				"buffer_size": 345,
+				"buffer_size": 306,
 				"line_ending": "Unix"
 			}
 		}
@@ -67,26 +19,29 @@
 	"build_system": "",
 	"file_history":
 	[
+		"/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/Gemfile",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
+		"/host/Users/Solomon/Dropbox/PlainText/To do/Done.txt",
 		"/home/solomon/.config/sublime-text-2/Packages/Default/Base File.sublime-settings",
 		"/home/solomon/Programming/rails_projects/sample_app/.gitignore",
-		"/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/public/stylesheets/custom.css",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_stylesheets.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/help.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/config/environments/production.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/contact.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/public/index.html",
 		"/home/solomon/Programming/rails_projects/sample_app/public/hello.html",
-		"/home/solomon/Programming/rails_projects/sample_app/Gemfile",
 		"/home/solomon/Programming/rails_projects/sample_app/README.markdown",
 		"/home/solomon/Programming/rails_projects/demo_app/app/models/micropost.rb",
 		"/home/solomon/Programming/rails_projects/demo_app/app/controllers/microposts_controller.rb",
@@ -141,190 +96,28 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/user.rb",
 					"settings":
 					{
-						"buffer_size": 2086,
+						"buffer_size": 306,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								93,
-								93
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
-					"settings":
-					{
-						"buffer_size": 329,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								65,
-								65
+								306,
+								306
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/controllers/users_controller.rb",
-					"settings":
-					{
-						"buffer_size": 89,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								76,
-								76
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/requests/layout_links_spec.rb",
-					"settings":
-					{
-						"buffer_size": 1247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1233,
-								1233
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/helpers/application_helper.rb",
-					"settings":
-					{
-						"buffer_size": 325,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								142,
-								142
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Ruby/Ruby.tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_header.html.erb",
-					"settings":
-					{
-						"buffer_size": 242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11,
-								11
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/application.html.erb",
-					"settings":
-					{
-						"buffer_size": 345,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								211,
-								211
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
 						"translation.y": 0,
