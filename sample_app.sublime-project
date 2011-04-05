@@ -8,58 +8,42 @@
 	"buffers":
 	[
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/models/micropost_spec.rb",
 			"settings":
 			{
-				"buffer_size": 1940,
+				"buffer_size": 1946,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_stats.html.erb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/spec/models/user_spec.rb",
 			"settings":
 			{
-				"buffer_size": 535,
+				"buffer_size": 7026,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/user.rb",
 			"settings":
 			{
-				"buffer_size": 663,
+				"buffer_size": 2483,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow_form.html.erb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/micropost.rb",
 			"settings":
 			{
-				"buffer_size": 200,
+				"buffer_size": 970,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow.html.erb",
+			"file": "/home/solomon/Programming/rails_projects/sample_app/lib/tasks/sample_data.rake",
 			"settings":
 			{
-				"buffer_size": 220,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_unfollow.html.erb",
-			"settings":
-			{
-				"buffer_size": 188,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/show.html.erb",
-			"settings":
-			{
-				"buffer_size": 715,
+				"buffer_size": 1222,
 				"line_ending": "Unix"
 			}
 		}
@@ -67,6 +51,20 @@
 	"build_system": "",
 	"file_history":
 	[
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/_unfollow.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/relationships/destroy.js.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/relationships/create.js.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/relationships_controller.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/relationships_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/show_follow.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_stats.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow_form.html.erb",
+		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/show.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/config/routes.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/lib/tasks/sample_data.rake",
 		"/home/solomon/Programming/rails_projects/sample_app/app/models/user.rb",
@@ -78,21 +76,17 @@
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/microposts/_micropost.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_user_info.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_micropost_form.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/helpers/sessions_helper.rb",
-		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/users_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_feed_item.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_feed.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/pages_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/controllers/microposts_controller.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/microposts_controller_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/public/stylesheets/custom.css",
-		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/show.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/factories.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/spec/models/micropost_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/models/micropost.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/db/migrate/20110331225229_create_microposts.rb",
-		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/users_controller_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/new.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/edit.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/users/_fields.html.erb",
@@ -119,7 +113,6 @@
 		"/home/solomon/Programming/rails_projects/sample_app/.gitignore",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_stylesheets.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
-		"/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/help.html.erb",
 		"/home/solomon/Programming/rails_projects/sample_app/config/environments/production.rb",
 		"/home/solomon/Programming/rails_projects/sample_app/app/views/pages/about.html.erb",
@@ -180,23 +173,22 @@
 	"groups":
 	[
 		{
-			"selected": 6,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/controllers/pages_controller_spec.rb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/models/micropost_spec.rb",
 					"settings":
 					{
-						"buffer_size": 1940,
+						"buffer_size": 1946,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1094,
-								1094
+								1939,
+								1939
 							]
 						],
 						"settings":
@@ -206,86 +198,85 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
-						"translation.y": 192,
+						"translation.y": 0,
 						"zoom_level": 1
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/shared/_stats.html.erb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/spec/models/user_spec.rb",
 					"settings":
 					{
-						"buffer_size": 535,
+						"buffer_size": 7026,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								535,
-								535
+								5553,
+								5553
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0,
-						"translation.y": 0,
+						"translation.y": 2304,
 						"zoom_level": 1
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/pages/home.html.erb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/user.rb",
 					"settings":
 					{
-						"buffer_size": 663,
+						"buffer_size": 2483,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								390,
-								390
+								2145,
+								2145
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0,
-						"translation.y": 0,
+						"translation.y": 576,
 						"zoom_level": 1
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow_form.html.erb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/app/models/micropost.rb",
 					"settings":
 					{
-						"buffer_size": 200,
+						"buffer_size": 970,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								200,
-								200
+								870,
+								870
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
 						},
 						"translation.x": 0,
 						"translation.y": 0,
@@ -295,75 +286,23 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_follow.html.erb",
+					"file": "/home/solomon/Programming/rails_projects/sample_app/lib/tasks/sample_data.rake",
 					"settings":
 					{
-						"buffer_size": 220,
+						"buffer_size": 1222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								220,
-								220
+								306,
+								306
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/_unfollow.html.erb",
-					"settings":
-					{
-						"buffer_size": 188,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								188,
-								188
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0,
-						"translation.y": 0,
-						"zoom_level": 1
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/home/solomon/Programming/rails_projects/sample_app/app/views/users/show.html.erb",
-					"settings":
-					{
-						"buffer_size": 715,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								355,
-								355
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
@@ -405,6 +344,10 @@
 		"height": 0,
 		"selected_items":
 		[
+			[
+				".rake",
+				"lib/tasks/sample_data.rake"
+			],
 			[
 				"index",
 				"app/views/users/index.html.erb"
