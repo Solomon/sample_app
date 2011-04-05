@@ -76,6 +76,58 @@ describe UsersController do
       response.should have_selector("span.content", :content => mp2.content)
     end
 
+    it "should paginate the user's microposts" do
+      40.times do
+        Factory(:micropost, :user => @user, :content => "something")
+      end
+      get :show, :id => @user
+      response.should have_selector("div.pagination")
+      response.should have_selector("span.disabled", :content => "Previous")
+      response.should have_selector("a", :href => "/users/1?page=2", :content => "2")
+      response.should have_selector("a", :href => "/users/1?page=2", :content => "Next")
+    end
+
+    it "should have delete links for the user's own microposts" do
+      test_sign_in(@user)
+      Factory(:micropost, :user => @user, :content => "something")
+      get :show, :id => @user
+      response.should have_selector("a", :content => "delete")
+    end
+
+    it "should not have delete links for non-signed in users" do
+      other_user = Factory(:user, :email => Factory.next(:email))
+      test_sign_in(other_user)
+      Factory(:micropost, :user => @user, :content => "something")
+      get :show, :id => @user
+      response.should_not have_selector("a", :content => "delete")
+    end
+
+
+
+
+    describe "follower & following side stats" do
+
+      before(:each) do
+        @other_user = Factory(:user, :email => Factory.next(:email))
+        @third_user = Factory(:user, :email => Factory.next(:email))
+        @user.follow!(@other_user)
+        @third_user.follow!(@user)
+      end
+
+      it "should have the correct number of followers & following" do
+        get :show, :id => @user
+        response.should have_selector("a", :content => "1 follower")
+        response.should have_selector("a", :content => "1 following")
+      end
+
+      it "should pluralize correctly" do
+        fourth_user = Factory(:user, :email => Factory.next(:email))
+        fourth_user.follow!(@user)
+        get :show, :id => @user
+        response.should have_selector("a", :content => "2 followers")
+      end
+    end
+
   end
 
   describe "POST 'create'" do

@@ -1,26 +1,5 @@
 <% if signed_in? %>
-  <table class="front" summary="For signed-in users">
-    <tr>
-      <td class="main">
-        <h1 class="micropost">What's up?</h1>
-        <%= render 'shared/micropost_form' %>
-        <%= render 'shared/feed' %>
-      </td>
-      <td class="sidebar round">
-        <%= render 'shared/user_info' %>
-        <%= render 'shared/stats' %>
-      </td>
-    </tr>
-  </table>
+  <%= render 'pages/home_signed_in' %>
 <% else %>
-
-
-
-<h1>Home</h1>
-<p>
-	This is the home page for the sample application I am building to teach myself Ruby and help build
-	<a href="http://www.memoirplace.com/">Memoir Place</a>.
-</p>
-
-<%= link_to "Sign up now!", signup_path, :class => "signup_button round" %>
+  <%= render 'pages/home_signed_out' %>
 <% end %>
